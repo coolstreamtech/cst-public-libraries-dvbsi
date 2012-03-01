@@ -1,0 +1,28 @@
+### mostly autoconf crap
+Makefile
+autom4te.cache
+*.in
+aclocal.m4
+config.*
+configure
+depcomp
+install-sh
+*.pc
+libtool
+ltmain.sh
+missing
+stamp-h1
+README
+COPYING
+INSTALL
+
+### objects and libs
+.libs
+.deps
+*.o
+*.lo
+*.a
+*.la
+.*.swp
+
+### binaries that fall out of the build
